@@ -4,7 +4,7 @@ I'm a 2nd year student pursuing Bachelor's in Engineering from the best public u
 </p>  
 <p align="center">
   
- {img src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NarayaneRM&theme=dracula&hide_border=true)](https://git.io/streak-stats)"}
+                     [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NarayaneRM&theme=dracula&hide_border=true)](https://git.io/streak-stats)
   
 </p>
 
